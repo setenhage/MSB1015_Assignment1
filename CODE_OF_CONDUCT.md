@@ -1,6 +1,6 @@
 This file is dedicated to providing a harassment-free working environment for all, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any form. All communication should be appropriate for a professional audience including people of many different backgrounds.
 
-Sexual language and imagery is not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for {NAME}. Staff violating these rules should be reported to an appropriate line manager.
+Sexual language and imagery is not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate. Staff violating these rules should be reported to an appropriate line manager.
 
 These are the values to which people in the MSB1015_Assignment1 community should aspire:
 
@@ -65,7 +65,7 @@ Warning the harasser to cease their behaviour and that any further reports will 
 Requiring that the harasser avoid any interaction with, and physical proximity to, their victim until a resolution or course of action has been decided upon
 Requiring that the harasser not volunteer for future events your organisation runs (either indefinitely or for a certain time period)
 Depending on the severity/details of the incident, requiring that the harasser immediately be sent home
-Depending on the severity/details of the incident, removing a harasser from membership of relevant {NAME} organisations
+Depending on the severity/details of the incident, removing a harasser from membership of relevant organisations
 Depending on the severity/details of the incident, publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is a team leader, or refuses to stand aside from the conflict of interest)
 Give accused staff members a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
 
