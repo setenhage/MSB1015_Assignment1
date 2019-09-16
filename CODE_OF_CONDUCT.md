@@ -24,7 +24,8 @@ Discussing potentially offensive or sensitive issues; this all too often leads t
 Microaggressions: brief and commonplace verbal, behavioral and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group. <br />
 People are complicated. You should expect to be misunderstood and to misunderstand others; when this inevitably occurs, resist the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it. It is the responsibility of all parties to de-escalate conflict when it arises. <br />
 <br />
-Reporting an incident <br />
+
+<strong> Reporting an incident </strong><br />
 Incidents that violate the Code of Conduct are extremely damaging to the {NAME}, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the teams at large, to grow, learn, and become better. <br />
 <br />
 
