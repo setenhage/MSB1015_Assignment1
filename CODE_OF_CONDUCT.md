@@ -4,8 +4,8 @@ Sexual language and imagery is not appropriate for any communication and/or talk
 
 These are the values to which people in the MSB1015_Assignment1 community should aspire:
 
-Be friendly and welcoming
-Be patient
+Be friendly and welcoming <br />
+Be patient <br />
 Remember that people have varying communication styles and that not everyone is using their native language. (Meaning and tone can be lost in translation.)
 Be thoughtful
 Productive communication requires effort. Think about how your words will be interpreted.
