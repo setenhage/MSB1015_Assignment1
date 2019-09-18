@@ -6,18 +6,21 @@
 <script src="https://cdn.rawgit.com/maxlath/wikidata-sdk/dist/dist/wikidata-sdk.min.js"></script>
 </head>
 
+<h1> Drugs targetting genes associated with Rheumatoid Arthritis </h1>
+<p> MSB1015 Assignment 1 - Suzanne ten Hage </p>
+
 <body>
   <pre id="output"></pre>
 	
   <script>
-  
-    query = "SELECT ?drugLabel ?geneLabel ?diseaseLabel \
-  	WHERE {?disease wdt:P279* wd:Q187255.\
-  	?disease  wdt:P2293 ?gene.\
-  	?gene wdt:P688 ?gene_product.\
-  	?drug wdt:P129 ?gene_product.\
-	SERVICE wikibase:label { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. }\
-	}"
+	
+    query = `SELECT ?drugLabel ?geneLabel ?diseaseLabel
+  	WHERE {?disease wdt:P279* wd:Q187255. 	#Select Rheumatoid Arthritis as disease.
+  	?disease  wdt:P2293 ?gene. 				#Select all genes associated with Rheumatoid Arthritis.
+  	?gene wdt:P688 ?gene_product. 			#Find all gene products associated with those genes. 
+  	?drug wdt:P129 ?gene_product. 			#Find all drugs targetting those gene products. 
+	SERVICE wikibase:label { bd:serviceParam wikibase:language '[AUTO_LANGUAGE],en'. }
+	}`
     
     fetch(
       wdk.sparqlQuery(query)
