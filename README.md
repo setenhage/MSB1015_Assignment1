@@ -12,7 +12,7 @@ We will be answering this question using WikiData. We will implement a SPARQL qu
 4. Implement the SVG into HTML
 
 ## Files
-wikidata.template.html --> This file is an example query provided by egonw. 
+wikidata.template.html --> This file is an example query provided by egonw. <br/>
 DrugsRheumatoidArthritis --> This file contains the query to find drugs targetting genes linked to RA. 
 
 ## Authors
