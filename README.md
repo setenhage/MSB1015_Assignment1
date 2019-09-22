@@ -15,5 +15,5 @@ wikidata.template.html --> This file is an example query provided by egonw. <br/
 DrugsRheumatoidArthritis --> This file contains the query to find drugs targetting genes linked to RA and visualization of this data using a html table and a tree. The file can be run by downloading it to your computer and opening it in a browser, such as Chrome or Firefox. 
 
 ## Authors
-Suzanne ten Hage
+Suzanne ten Hage <br/>
 Special thanks to Ammar Ammar and Egon Willighagen for their time and effort in helping to realize the tree visualization. 
