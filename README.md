@@ -17,3 +17,6 @@ DrugsRheumatoidArthritis --> This file contains the query to find drugs targetti
 ## Authors
 Suzanne ten Hage <br/>
 Special thanks to Ammar Ammar and Egon Willighagen for their time and effort in helping to realize the tree visualization. 
+
+## Additional information
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
